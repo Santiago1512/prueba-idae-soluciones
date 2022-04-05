@@ -1,0 +1,126 @@
+:root {
+  --colorOrangeMain: #EB6F2C;
+  --colorBlueMain: #5A91CD;
+  --colorGreenMain: #B8D04A;
+  --colorGrayMain: #4D5252;
+  --colorBlackMain: #1C1C1B
+}
+
+body {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+h1{
+  font-family: 'BunkenTechSansProExBd';
+  font-size: 36px;
+  margin: 0;
+}
+
+h2{
+  font-family: 'BunkenTechSansProExBd';
+  font-size: 30px;
+  margin: 0;
+
+}
+
+h3{
+  font-family: 'BunkenTechSansProExBd';
+  font-size: 26px;
+  margin: 0;
+
+}
+
+h4{
+  font-family: 'BunkenTechSansProSeBd';
+  font-size: 22px;
+  margin: 0;
+
+}
+
+h5{
+  font-family: 'BunkenTechSansProSeBd';
+  font-size: 18px;
+  margin: 0;
+
+}
+
+h6{
+  font-family: 'BunkenTechSansProSeBd';
+  font-size: 16px;
+  margin: 0;
+
+}
+
+p{
+  font-family: 'BunkenTechSansProBook';
+  font-size: 16px;
+  margin: 0;
+
+}
+
+span{
+  font-family: 'BunkenTechSansProBook';
+  font-size: 16px;
+  margin: 0;
+
+}
+button{
+  font-family: 'BunkenTechSansProSeBd';
+  cursor: pointer;
+}
+li{
+  font-family: 'BunkenTechSansProBook';
+  font-size: 16px;
+  margin: 0;
+  cursor: pointer;
+
+}
+
+a{
+  font-family: 'BunkenTechSansProBook';
+  font-size: 16px;
+  margin: 0;
+
+}
+
+.textRight{
+  text-align: right;
+}
+.textCenter{
+  text-align: center;
+}
+.textLeft{
+  text-align: left;
+}
+
+.textItalic{
+  font-style: italic;
+}
+.cursorPointer{
+  cursor: pointer;
+}
+.estilosEjercicioUno h1{
+  margin-bottom: 20px;
+}
+.estilosEjercicioUno input{
+  margin-left: 40px;
+}
+.estilosEjercicioUno{
+  padding: 30px;
+}
+.inputUno{
+  margin: 0 20px !important
+}
+
+.estilosCard{
+  margin-bottom: 30px;
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.36);
+  display: inline-block;
+  width: 150px;
+  text-align: center;
+  padding: 20px;
+}
